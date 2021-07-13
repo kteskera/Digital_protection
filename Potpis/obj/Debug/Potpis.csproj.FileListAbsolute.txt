@@ -1,0 +1,13 @@
+C:\Users\Karlo\Desktop\Potpis\Potpis\bin\Debug\Potpis.exe.config
+C:\Users\Karlo\Desktop\Potpis\Potpis\bin\Debug\Potpis.exe
+C:\Users\Karlo\Desktop\Potpis\Potpis\bin\Debug\Potpis.pdb
+C:\Users\Karlo\Desktop\Potpis\Potpis\obj\Debug\Potpis.csprojAssemblyReference.cache
+C:\Users\Karlo\Desktop\Potpis\Potpis\obj\Debug\Potpis.Properties.Resources.resources
+C:\Users\Karlo\Desktop\Potpis\Potpis\obj\Debug\Potpis.csproj.GenerateResource.cache
+C:\Users\Karlo\Desktop\Potpis\Potpis\obj\Debug\Potpis.csproj.CoreCompileInputs.cache
+C:\Users\Karlo\Desktop\Potpis\Potpis\obj\Debug\Potpis.exe
+C:\Users\Karlo\Desktop\Potpis\Potpis\obj\Debug\Potpis.pdb
+C:\Users\Karlo\Desktop\Potpis\Potpis\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Karlo\Desktop\Potpis\Potpis\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Karlo\Desktop\Potpis\Potpis\obj\Debug\Potpis.csproj.CopyComplete
+C:\Users\Karlo\Desktop\Potpis\Potpis\obj\Debug\Potpis.SigurnostForm.resources
